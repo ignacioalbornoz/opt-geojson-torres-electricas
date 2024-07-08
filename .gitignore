@@ -1,1 +1,4 @@
 geojsons/*
+!geojsons/
+!geojsons/.gitkeep
+
